@@ -1,0 +1,31 @@
+{
+  "name": "cyppherr",
+  "version": "1.0.0",
+  "description": "👋 Hi, I’m @cyppherr, your friendly neighborhood code wizard. 👀 I’m interested in bending the rules of reality with my keyboard strokes. 🌱 I’m currently learning the mystical arts of the MERN stack – because why settle for just one when you can conquer them all? 💞️ I’m looking to collaborate on open-source projects that'll make Elon Musk raise an eyebrow and say, \"Okay, now that's pretty cool.\" 📫 How to reach me? Easy-peasy lemon squeezy, just shoot me an email at madaan.piyush01@gmail.com, and let's make some coding magic happen. 😄 Pronouns: He/Him/His (or you can just call me \"Your Majesty of Code\" if you're feeling fancy). ⚡ Fun fact: Did you know that the shortest war in history lasted only 38 minutes? Yeah, apparently, it was between Zanzibar and England. I guess someone forgot to bring their army that day!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyppherr/cyppherr.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cyppherr/cyppherr/issues"
+  },
+  "homepage": "https://github.com/cyppherr/cyppherr#readme",
+  "dependencies": {
+    "@react-three/drei": "^10.0.7",
+    "@react-three/fiber": "^9.1.2",
+    "react-router-dom": "^7.6.0",
+    "three": "^0.176.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^4.1.6"
+  }
+}
